@@ -1,7 +1,7 @@
 
 # POCP-Core: The Pre-Decoding Enforcement Layer
 
-**Version:** 1.0\n
+**Version:** 1.0  
 **Status:** Release Candidate  
 **Author:** Daniel T. Sasser II  
 **Project:** Gorombo Agent Framework
