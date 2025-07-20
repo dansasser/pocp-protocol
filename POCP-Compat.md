@@ -79,5 +79,5 @@ def apply_pocp_compat(generated_text: str, rules: dict) -> str:
 
 ## 5. Relationship to POCP-Core
 
-`POCP-Compat` is the practical implementation layer for developers. The ideal and most efficient implementation is defined in **`POCP-Core`**, which operates at the pre-decoding level.
+`POCP-Compat` is the practical implementation layer for developers. The ideal and most efficient implementation is defined in [**`POCP-Core`**](./POCP-Core.md), which operates at the pre-decoding level.
 
